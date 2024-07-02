@@ -8,7 +8,7 @@ Allows you to use find/replace operations on every file in a directory.
 ### DataPackIndexer.bat
  - This is a command line application, so you should use this batch to run it
  - Put this in the same place as the JAR file or it won't work!
-### FixConsoleColors.bat
+### SetUpConsoleColors.bat
  - If you see weird symbols in the output, and/or all the text is the same color, running this as administrator will set up your console colors permanant
  - If you don't want to run my batch file as admin, you can still use the program and just ignore the escape sequences
 ## Other
